@@ -11,7 +11,7 @@ public class Inventory{
     private ArrayList<Movie> movies;
     
     /**
-     * constructs a new ArrayList of Movies; from a file if it can
+     * constructs a new ArrayList of Products; from a file if it can
      */
     public Inventory() {
         boolean loadedFromFile = true;
